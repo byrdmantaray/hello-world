@@ -1,3 +1,3 @@
 # hello-world
-tester
-/nTesting this program out.
+tester  
+Testing this program out.
